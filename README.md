@@ -23,14 +23,15 @@ CSS3 – Styling, layout, and animations
 JavaScript (Vanilla JS) – Game logic and interactions
 
 📁 Project Structure
+
 whack-a-mole/
 │
-├── index.html
-├── styles.css
-├── script.js
-├── mole.png
-├── dirt.png
-└── README.md
+   ├── index.html
+   ├── styles.css
+   ├── script.js
+   ├── mole.png
+   ├── dirt.png
+   └── README.md
 
 ▶️ How to Run the Game
 
